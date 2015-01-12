@@ -1,0 +1,9 @@
+C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\obj\x86\Debug\FINAL.csprojResolveAssemblyReference.cache
+C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\background.xnb
+C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\FINAL.exe
+C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\FINAL.pdb
+C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\obj\x86\Debug\FINAL.exe
+C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\obj\x86\Debug\FINAL.pdb
+C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\music.xnb
+C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\music.wma
