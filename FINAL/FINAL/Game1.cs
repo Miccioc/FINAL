@@ -25,6 +25,8 @@ namespace FINAL
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
+            graphics.PreferredBackBufferHeight = 1080; // by default this is 480
+            graphics.PreferredBackBufferWidth = 1920;  // by default this is 800
             Content.RootDirectory = "Content";
         }
 
