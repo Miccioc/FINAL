@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\background.xnb</Output>
-      <Time>2015-01-12T18:42:07.1361087-05:00</Time>
+      <Output>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2015-01-13T10:16:31.7166-05:00</Time>
     </Item>
     <Item>
       <Source>music.mp3</Source>
@@ -16,9 +16,18 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\music.xnb</Output>
-      <Extra>C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\music.wma</Extra>
-      <Time>2015-01-12T18:42:07.176111-05:00</Time>
+      <Output>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\music.xnb</Output>
+      <Extra>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\music.wma</Extra>
+      <Time>2015-01-13T10:16:31.7936-05:00</Time>
+    </Item>
+    <Item>
+      <Source>kar.png</Source>
+      <Name>kar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\kar.xnb</Output>
+      <Time>2015-01-13T10:34:51.3936-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -26,10 +35,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINALContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINALContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINALContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINALContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -58,7 +67,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2014-10-13T22:44:24.4679039-04:00</Value>
+        <Value>2012-04-18T11:24:14.1308-04:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

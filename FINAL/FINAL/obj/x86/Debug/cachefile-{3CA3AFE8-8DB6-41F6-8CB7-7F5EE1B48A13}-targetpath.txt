@@ -1,3 +1,4 @@
 Content\background.xnb
 Content\music.xnb
 Content\music.wma
+Content\kar.xnb
