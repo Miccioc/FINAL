@@ -8,7 +8,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\background.xnb</Output>
-      <Time>2015-01-13T10:16:31.7166-05:00</Time>
+      <Time>2015-01-14T10:44:51.506-05:00</Time>
     </Item>
     <Item>
       <Source>music.mp3</Source>
@@ -18,7 +18,7 @@
       <Options>None</Options>
       <Output>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\music.xnb</Output>
       <Extra>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\music.wma</Extra>
-      <Time>2015-01-13T10:16:31.7936-05:00</Time>
+      <Time>2015-01-14T10:44:51.574-05:00</Time>
     </Item>
     <Item>
       <Source>kar.png</Source>
@@ -27,7 +27,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\kar.xnb</Output>
-      <Time>2015-01-13T10:34:51.3936-05:00</Time>
+      <Time>2015-01-14T10:44:51.507-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

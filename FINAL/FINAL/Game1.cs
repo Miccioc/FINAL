@@ -19,9 +19,13 @@ namespace FINAL
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
         Texture2D texture1;
-
+        SpriteFont pericles;
         Rectangle rectangle1;
         Rectangle rectangle2;
+        public static Texture2D square, Spreadsheet;
+
+        Sprite Player;
+
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
