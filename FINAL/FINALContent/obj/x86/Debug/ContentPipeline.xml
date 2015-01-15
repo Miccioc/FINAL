@@ -8,7 +8,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\background.xnb</Output>
-      <Time>2015-01-14T10:44:51.506-05:00</Time>
+      <Time>2015-01-15T10:54:22.87-05:00</Time>
     </Item>
     <Item>
       <Source>music.mp3</Source>
@@ -18,7 +18,7 @@
       <Options>None</Options>
       <Output>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\music.xnb</Output>
       <Extra>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\music.wma</Extra>
-      <Time>2015-01-14T10:44:51.574-05:00</Time>
+      <Time>2015-01-15T10:54:22.937-05:00</Time>
     </Item>
     <Item>
       <Source>kar.png</Source>
@@ -27,7 +27,25 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\kar.xnb</Output>
-      <Time>2015-01-14T10:44:51.507-05:00</Time>
+      <Time>2015-01-15T10:54:22.871-05:00</Time>
+    </Item>
+    <Item>
+      <Source>speed .png</Source>
+      <Name>speed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\speed.xnb</Output>
+      <Time>2015-01-15T10:54:22.95-05:00</Time>
+    </Item>
+    <Item>
+      <Source>square.bmp</Source>
+      <Name>square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\square.xnb</Output>
+      <Time>2015-01-15T10:54:22.958-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
