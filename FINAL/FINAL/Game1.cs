@@ -24,7 +24,7 @@ namespace FINAL
         Rectangle rectangle2;
         public static Texture2D square, Spreadsheet;
 
-        Sprite Player;
+       
 
         public Game1()
         {

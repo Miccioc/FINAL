@@ -17,3 +17,6 @@ C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\obj\x86\Debug\Microsoft.Xna.F
 C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\obj\x86\Debug\FINAL.exe
 C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\obj\x86\Debug\FINAL.pdb
 C:\Users\eahscs\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\kar.xnb
+C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\kar.xnb
+C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\speed.xnb
+C:\Users\alexadb123\Documents\GitHub\FINAL\FINAL\FINAL\bin\x86\Debug\Content\square.xnb
